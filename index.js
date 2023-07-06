@@ -12,8 +12,17 @@ app.get('/', (req, res) => {
     res.send('Agency server is running')
 });
 
-app.get('/allPlace', (req, res) => {
+app.get('/place', (req, res) => {
     res.send(place);
+});
+
+app.get('/place/:id', (req, res) => {
+    const id = req.params.id;
+    const singlePlace = place.find(p => p.id === id);
+    if (!singlePlace) {
+        res.send('Not found place');
+    }
+    res.send(singlePlace);
 })
 
 app.listen(Port, () => {
