@@ -3,19 +3,22 @@
         "id": "01",
         "name": "COX'S BAZAR",
         "img": "https://i.ibb.co/YLcwXnH/Rectangle-1.png",
-        "title": "Cox’s Bazar is a town on the southeast coast of Bangladesh. It’s known for its very long, sandy beachfront, stretching from Sea Beach in the north to Kolatoli Beach in the south. Aggameda Khyang monastery is home to bronze statues and centuries-old Buddhist manuscripts. South of town, the tropical rainforest of Himchari National Park has waterfalls and many birds. North, sea turtles breed on nearby Sonadia Island."
+        "title": "Cox’s Bazar is a town on the southeast coast of Bangladesh. It’s known for its very long, sandy beachfront, stretching from Sea Beach in the north to Kolatoli Beach in the south. Aggameda Khyang monastery is home to bronze statues and centuries-old Buddhist manuscripts. South of town, the tropical rainforest of Himchari National Park has waterfalls and many birds. North, sea turtles breed on nearby Sonadia Island.",
+        "place": "Cox's Bazar"
     },
     {
         "id": "02",
         "name": "SREEMANGAL",
         "img": "https://i.ibb.co/kXt86MK/Sreemongol.png",
-        "title": "Sreemangal, located in Bangladesh's northeast, is a captivating destination for travelers. With its lush tea gardens, rolling hills, and scenic landscapes, it mesmerizes visitors. The region offers adventure activities like hiking and trekking, while the Lawachara National Park showcases rich biodiversity. Engage with indigenous communities, taste fresh pineapples and lemons, and savor the local cuisine. Sreemangal is a perfect blend of natural beauty, cultural diversity, and immersive experiences for every traveler."
+        "title": "Sreemangal, located in Bangladesh's northeast, is a captivating destination for travelers. With its lush tea gardens, rolling hills, and scenic landscapes, it mesmerizes visitors. The region offers adventure activities like hiking and trekking, while the Lawachara National Park showcases rich biodiversity. Engage with indigenous communities, taste fresh pineapples and lemons, and savor the local cuisine. Sreemangal is a perfect blend of natural beauty, cultural diversity, and immersive experiences for every traveler.",
+        "place": "Sreemongol"
     },
     {
         "id": "03",
         "name": "SUNDARBANS",
         "img": "https://i.ibb.co/JHRmThK/sundorbon.png",
-        "title": "Sundarbans, a UNESCO World Heritage Site, is a captivating destination for travelers. Located in Bangladesh and India, it is the largest mangrove forest in the world. This unique ecosystem is home to the Royal Bengal tigers, making it a thrilling wildlife destination. Visitors can explore the dense mangrove forests by boat, spot various bird species, and witness the interplay of land and water. The Sundarbans offers an unforgettable experience, blending nature's beauty and wildlife encounters."
+        "title": "Sundarbans, a UNESCO World Heritage Site, is a captivating destination for travelers. Located in Bangladesh and India, it is the largest mangrove forest in the world. This unique ecosystem is home to the Royal Bengal tigers, making it a thrilling wildlife destination. Visitors can explore the dense mangrove forests by boat, spot various bird species, and witness the interplay of land and water. The Sundarbans offers an unforgettable experience, blending nature's beauty and wildlife encounters.",
+        "place": "Sundarbans"
     }
 
 ]
